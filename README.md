@@ -5,7 +5,7 @@ This project allows players to control pawns that are simulating Physics with Ph
 
 **IMPORTANT:** This project is a work-in-progress and incomplete. I also highly recommend using a fixed-timestep version of the engine, which will result in far fewer corrections needing to be made.
 
-Unreal Forum Thread(https://forums.unrealengine.com/showthread.php?135955-Networked-Physics-with-PhysX/page2)
+[Unreal Forum Thread](https://forums.unrealengine.com/showthread.php?135955-Networked-Physics-with-PhysX/page2)
 
 TODO
 ----
