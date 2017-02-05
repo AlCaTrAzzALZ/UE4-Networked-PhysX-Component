@@ -1,7 +1,7 @@
 Networked PhysX Component
 =========================
 
-This project allows players to control pawns that are simulating Physics with PhysX, and provides prediction and reconciliation. It interfaces with the engines INetworkPredictionInterface. If you choose to use any or all of this code in a project or redistribute in another form, please credit me.
+This project allows players to control pawns that are simulating Physics with PhysX, and provides prediction and reconciliation. It interfaces with the engines INetworkPredictionInterface.
 
 **IMPORTANT:** This project is a work-in-progress and incomplete. I also highly recommend using a fixed-timestep version of the engine, which will result in far fewer corrections needing to be made.
 
