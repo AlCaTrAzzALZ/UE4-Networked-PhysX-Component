@@ -9,7 +9,7 @@
 // PhysX
 #include "PhysicsPublic.h"
 #include "Runtime/Engine/Classes/PhysicsEngine/PhysicsSettings.h"
-#include "ThirdParty/PhysX/PhysX-3.3/include/PxScene.h"
+#include "ThirdParty/PhysX/PhysX_3.4/include/PxScene.h"
 
 ///////////////////
 ///// Statics /////
